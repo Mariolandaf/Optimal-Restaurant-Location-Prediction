@@ -24,10 +24,19 @@ This project focuses on predicting optimal physical business locations in Mexico
 
 ## Key Results
 - **K-Means**: Selected as the best model for predicting business location due to its ability to minimize intra-cluster variance.
+
+![Alt cluster](Cluster.png)
+
+*Figure 1: Map of Monterrey divided into clusters using the K-means model.*
+  
 - **Cluster Insights**:
   - **Cluster 0**: High business density, optimal for diverse business types.
   - **Cluster 1**: Low business density, potential for new business establishment.
   - **Cluster 2**: Moderate density, balanced commercial and residential areas.
+
+![Alt frequencies](frecluster.png)
+
+*Figure 2: Frequency of restaurant types by cluster in Monterrey.*
 
 ## Conclusion
 This project demonstrates the potential of using clustering models to predict optimal business locations in Mexico. By integrating data from INEGI, the model helps identify areas with unsaturated markets, providing actionable insights for business owners and entrepreneurs.
