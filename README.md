@@ -1,6 +1,6 @@
 # Optimal Business Location Prediction Using INEGI Data
 
-This project focuses on predicting optimal physical business locations in Mexico using large-scale data from INEGI, including census and business directories. By leveraging unsupervised learning and clustering algorithms, we identify the best geographic areas to establish a new business.
+This project focuses on predicting optimal physical business locations in Mexico using large-scale data from INEGI, including census and business directories. By leveraging unsupervised learning and clustering algorithms, the relationship between restaurant density and population distribution is analyzed to identify the best geographic areas to establish a new business.
 
 ## Objectives
 - **Business Understanding**: Identify high-potential business locations using demographic and economic data.
@@ -30,8 +30,8 @@ This project focuses on predicting optimal physical business locations in Mexico
 *Figure 1: Map of Monterrey divided into clusters using the K-means model.*
   
 - **Cluster Insights**:
-  - **Cluster 0**: High business density, optimal for diverse business types.
-  - **Cluster 1**: Low business density, potential for new business establishment.
+  - **Cluster 0**: High density, optimal for diverse business types.
+  - **Cluster 1**: Low density, potential for new business establishment.
   - **Cluster 2**: Moderate density, balanced commercial and residential areas.
 
 ![Alt frequencies](frecluster.png)
