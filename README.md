@@ -29,11 +29,6 @@ This project focuses on predicting optimal physical business locations in Mexico
 ## Conclusion
 This project demonstrates the potential of using clustering models to predict optimal business locations in Mexico. By integrating data from INEGI, the model helps identify areas with unsaturated markets, providing actionable insights for business owners and entrepreneurs.
 
-## How to Use
-1. Clone the repository.
-2. Install required dependencies: `pip install -r requirements.txt`.
-3. Run the Streamlit app to explore clusters and visualize potential business locations.
-
 ## Future Work
 - Extend the model to other regions in Mexico.
 - Include more business sectors beyond restaurants.
