@@ -18,6 +18,9 @@ This project focuses on predicting optimal physical business locations in Mexico
 1. **K-Means**: Identified 3 clusters, with clear segmentation of high and low business potential areas.
 2. **DBSCAN**: Detected dense business areas without requiring a predefined number of clusters.
 3. **Gaussian Mixture Model**: Grouped data based on probabilistic distribution, offering insight into population-business relationships.
+4. **Hierarchical Clustering**: Built a hierarchy of clusters, providing a tree-like structure for better visualization of nested clusters.
+5. **Mean Shift**: Identified regions of high data density, but struggled with noisy data in sparse areas.
+6. **Self-Organizing Maps (SOM)**: Used neural networks to create a low-dimensional representation of the data, visualizing clusters effectively.
 
 ## Key Results
 - **K-Means**: Selected as the best model for predicting business location due to its ability to minimize intra-cluster variance.
