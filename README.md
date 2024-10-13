@@ -1,6 +1,6 @@
-# Optimal Business Location Prediction Using INEGI Data
+# Optimal Restaurant Location Prediction Using INEGI Data
 
-This project focuses on predicting optimal physical business locations in Mexico using large-scale data from INEGI, including census and business directories. By leveraging unsupervised learning and clustering algorithms, the relationship between restaurant density and population distribution is analyzed to identify the best geographic areas to establish a new business.
+This project focuses on predicting optimal physical restaurant locations in Mexico using large-scale data from INEGI, including census and business directories. By leveraging unsupervised learning and clustering algorithms, the relationship between restaurant density and population distribution is analyzed to identify the best geographic areas to establish a new business.
 
 ## Objectives
 - **Business Understanding**: Identify high-potential business locations using demographic and economic data.
